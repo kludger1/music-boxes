@@ -3,6 +3,9 @@ body{
     margin: 70px;
     display: flex;
     justify-content: center;
+    background: url('../images/blackwood.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
      
    
 }
