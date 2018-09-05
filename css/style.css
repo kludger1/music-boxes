@@ -1,13 +1,10 @@
 body{
     padding:0;
-    /* 3ED CHANGE */
     margin: 70px;
     display: flex;
     justify-content: center;
-    background-image: url(https://cdn.pixabay.com/photo/2016/09/28/13/56/wood-1700562_960_720.jpg);   
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+     
+   
 }
     
 
